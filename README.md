@@ -1,5 +1,9 @@
 Re-write of willtubby.com in vue.js
-firebase hosting: https://console.firebase.google.com/u/0/project/tubbycreative2021/overview
+
+## Hosting 
+https://tubbycreative2021.web.app/
+https://console.firebase.google.com/u/0/project/tubbycreative2021/overview
+
 
 ## Project setup
 ```

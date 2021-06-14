@@ -1,4 +1,4 @@
-# organizer
+Re-write of willtubby.com in vue.js
 
 ## Project setup
 ```
